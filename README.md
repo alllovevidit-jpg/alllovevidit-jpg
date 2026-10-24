@@ -1,5 +1,5 @@
 
-# hey, i'm vidit 👋
+# hey, i'm vidit 
 
 ### class 12 student by day, builder by obsession.
 
@@ -9,8 +9,8 @@ i scored **95.4% in my class 10 boards**, but i'm just as interested in what i c
 
 ## currently building
 
-- 📚 **StudyOS** — a student productivity app for planning, tracking, and revising.
-- ⚡ **PulseCheck** — an API uptime and latency monitoring project.
+-  **StudyOS** — a student productivity app for planning, tracking, and revising.
+-  **PulseCheck** — an API uptime and latency monitoring project.
 
 ## currently learning
 
@@ -21,13 +21,13 @@ i scored **95.4% in my class 10 boards**, but i'm just as interested in what i c
 
 ## beyond the screen
 
-🏃 running & hybrid training  
-📸 photography and volunteering with Sadqa Foundation  
-🧠 exploring tech, product ideas, and entrepreneurship
+ running & hybrid training  
+ photography and volunteering with Sadqa Foundation  
+ exploring tech, product ideas, and entrepreneurship
 
 ## find me
 
-- 💼 LinkedIn- https://www.linkedin.com/in/vidit-pandey-095194309/
+-  LinkedIn- https://www.linkedin.com/in/vidit-pandey-095194309/
 ---
 
 *still figuring things out, building in public, and getting better with every project.*
